@@ -1,5 +1,7 @@
 # Asynchronisme
 
+![Asynchronisme](./assets/pexels-cottonbro-9617736.jpg)
+
 Exemples de la gestion de l'asynchronisme en TypeScript.
 
 - Installation des dépendances NPM
@@ -7,7 +9,12 @@ Exemples de la gestion de l'asynchronisme en TypeScript.
 $ `bun install`
 
 - Exécution d'un exemple
+
 $ `bun run src/exemple-01.ts`
+
+## Crédits
+
+Photo Cottonbro Studio / Pexels : <https://www.pexels.com/fr-fr/photo/gens-personnes-individus-eau-9617736/>
 
 --
 
