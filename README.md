@@ -14,7 +14,7 @@ $ `bun run src/exemple-01.ts`
 
 ## Crédits
 
-Photo Cottonbro Studio / Pexels : <https://www.pexels.com/fr-fr/photo/gens-personnes-individus-eau-9617736/>
+Photo _Cottonbro Studio / Pexels_ : <https://www.pexels.com/fr-fr/photo/gens-personnes-individus-eau-9617736/>
 
 --
 
